@@ -1,0 +1,16 @@
+.nx/installation
+.nx/cache
+.nx/workspace-data
+/node_modules/
+/apps/node_modules/
+# .NET
+/artifacts/
+/dist/
+/apps/dist/
+/coverage/
+/backend/bin/
+/backend/obj/
+
+vite.config.*.timestamp*
+vitest.config.*.timestamp*
+.nx/polygraph
